@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/f844dfb9-8e4f-4315-86d6-a3163865bd70)
 
-![image](https://github.com/user-attachments/assets/78976ccc-9c32-44df-ae43-4f178cc85203)
+![image](https://github.com/user-attachments/assets/e3f6b0e7-a7d6-4c72-96c1-885a3dfbf22e)
+
 
 
 ### Name:DAKSHINA MOORTHY N D
